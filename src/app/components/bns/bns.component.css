@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(117, 255, 145);
+}
+
+h1{
+	color: #A6CAA9;
+    font-family: "Lucida Console";
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+label{
+    padding: 10px;
+}
+
+button{
+    background-color: rgb(243, 50, 50);
+}
+
+div{
+    background-color: rgb(50, 243, 195);
+}
+
+p{
+    background-color: rgb(111, 243, 50);    
+}
